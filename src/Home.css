@@ -1,0 +1,10 @@
+.layout {
+    display: flex;
+    
+}
+
+.sidebar {
+    background-color: bisque;
+    height: 100vh;
+    padding: 50px;
+}
